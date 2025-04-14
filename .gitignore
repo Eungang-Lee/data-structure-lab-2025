@@ -1,0 +1,8 @@
+.vs/
+*.ipch
+*.dll
+*.exe
+x64/
+Debug/
+Release/
+
